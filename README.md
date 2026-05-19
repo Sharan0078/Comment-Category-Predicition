@@ -128,16 +128,6 @@ Macro F1-score was chosen because:
 
 ---
 
-## Future Improvements
-Possible future improvements include:
-- Transformer-based models (BERT, RoBERTa)
-- Contextual embeddings
-- Advanced ensemble techniques
-- Hyperparameter optimization using Optuna
-- Error analysis for class-2 and class-3 confusion
-
----
-
 ## Author
 Sharan  
 Machine Learning & NLP Project using Classical ML Techniques
